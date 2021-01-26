@@ -4,7 +4,7 @@
 
     <test name="mobiquity-test">
         <classes>
-            <class name="com.mobiquity.assignment.UserTestData"/>
+            <class name="com.mobiquity.assignment.UserDataTest"/>
         </classes>
     </test> <!-- mobiquity-test -->
 </suite> <!-- Default Suite -->
