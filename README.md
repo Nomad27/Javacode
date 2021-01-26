@@ -1,7 +1,7 @@
 # RestAssuredAPITesting
 Rest APIs Testing
 
-[![CircleCI](https://app.circleci.com/pipelines/github/Nomad27/mobiquity.svg?style=svg)](https://app.circleci.com/pipelines/github/Nomad27/mobiquity)
+[![CircleCI](https://circleci.com/gh/Nomad27/mobiquity.svg?style=svg)](https://circleci.com/gh/Nomad27/mobiquity)
 
 # Project Structure
 The project follows the standard Maven structure, so all the tests go in the src/test/java folder.We have used the RestAssured Automation tool to automate the Rest APIs.For reporting we have used the Extent Report.
