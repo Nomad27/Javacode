@@ -14,7 +14,7 @@ import org.testng.annotations.Test;
 import com.aventstack.extentreports.Status;
 import io.restassured.RestAssured;
 
-public class UserTestData extends BaseTest {
+public class UserDataTest extends BaseTest {
 
 	private static final Logger logger = LogManager.getLogger(UserTestData.class.getName());
 
