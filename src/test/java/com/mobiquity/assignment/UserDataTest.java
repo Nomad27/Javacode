@@ -16,7 +16,7 @@ import io.restassured.RestAssured;
 
 public class UserDataTest extends BaseTest {
 
-	private static final Logger logger = LogManager.getLogger(UserTestData.class.getName());
+	private static final Logger logger = LogManager.getLogger(UserDataTest.class.getName());
 
 	private static final String USER_NAME = "Delphine";
 	
